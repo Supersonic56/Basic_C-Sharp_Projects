@@ -8,6 +8,7 @@ namespace Basic_math_Csharp
         {
             //Takes an input from the user, multiplies it by 50, then prints the result to the console. 
             /*
+            Console.WriteLine("Write any number");
             int Number = Convert.ToInt32(Console.ReadLine());
             int OtherNumber = 50;
             int Combined = Number * OtherNumber;
