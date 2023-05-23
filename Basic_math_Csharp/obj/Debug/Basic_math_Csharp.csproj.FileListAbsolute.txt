@@ -1,0 +1,7 @@
+C:\Users\coach\source\repos\Basic_C-Sharp_Projects\Basic_math_Csharp\bin\Debug\Basic_math_Csharp.exe.config
+C:\Users\coach\source\repos\Basic_C-Sharp_Projects\Basic_math_Csharp\bin\Debug\Basic_math_Csharp.exe
+C:\Users\coach\source\repos\Basic_C-Sharp_Projects\Basic_math_Csharp\bin\Debug\Basic_math_Csharp.pdb
+C:\Users\coach\source\repos\Basic_C-Sharp_Projects\Basic_math_Csharp\obj\Debug\Basic_math_Csharp.csproj.AssemblyReference.cache
+C:\Users\coach\source\repos\Basic_C-Sharp_Projects\Basic_math_Csharp\obj\Debug\Basic_math_Csharp.csproj.CoreCompileInputs.cache
+C:\Users\coach\source\repos\Basic_C-Sharp_Projects\Basic_math_Csharp\obj\Debug\Basic_math_Csharp.exe
+C:\Users\coach\source\repos\Basic_C-Sharp_Projects\Basic_math_Csharp\obj\Debug\Basic_math_Csharp.pdb
