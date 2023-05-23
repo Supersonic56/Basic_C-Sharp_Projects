@@ -1,0 +1,7 @@
+C:\Users\coach\source\repos\Basic_C-Sharp_Projects\Anon_Income_Comparison\bin\Debug\Anon_Income_Comparison.exe.config
+C:\Users\coach\source\repos\Basic_C-Sharp_Projects\Anon_Income_Comparison\bin\Debug\Anon_Income_Comparison.exe
+C:\Users\coach\source\repos\Basic_C-Sharp_Projects\Anon_Income_Comparison\bin\Debug\Anon_Income_Comparison.pdb
+C:\Users\coach\source\repos\Basic_C-Sharp_Projects\Anon_Income_Comparison\obj\Debug\Anon_Income_Comparison.csproj.AssemblyReference.cache
+C:\Users\coach\source\repos\Basic_C-Sharp_Projects\Anon_Income_Comparison\obj\Debug\Anon_Income_Comparison.csproj.CoreCompileInputs.cache
+C:\Users\coach\source\repos\Basic_C-Sharp_Projects\Anon_Income_Comparison\obj\Debug\Anon_Income_Comparison.exe
+C:\Users\coach\source\repos\Basic_C-Sharp_Projects\Anon_Income_Comparison\obj\Debug\Anon_Income_Comparison.pdb
