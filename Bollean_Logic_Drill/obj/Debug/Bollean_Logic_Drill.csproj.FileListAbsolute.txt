@@ -1,0 +1,7 @@
+C:\Users\coach\source\repos\Basic_C-Sharp_Projects\Bollean_Logic_Drill\bin\Debug\Bollean_Logic_Drill.exe.config
+C:\Users\coach\source\repos\Basic_C-Sharp_Projects\Bollean_Logic_Drill\bin\Debug\Bollean_Logic_Drill.exe
+C:\Users\coach\source\repos\Basic_C-Sharp_Projects\Bollean_Logic_Drill\bin\Debug\Bollean_Logic_Drill.pdb
+C:\Users\coach\source\repos\Basic_C-Sharp_Projects\Bollean_Logic_Drill\obj\Debug\Bollean_Logic_Drill.csproj.AssemblyReference.cache
+C:\Users\coach\source\repos\Basic_C-Sharp_Projects\Bollean_Logic_Drill\obj\Debug\Bollean_Logic_Drill.csproj.CoreCompileInputs.cache
+C:\Users\coach\source\repos\Basic_C-Sharp_Projects\Bollean_Logic_Drill\obj\Debug\Bollean_Logic_Drill.exe
+C:\Users\coach\source\repos\Basic_C-Sharp_Projects\Bollean_Logic_Drill\obj\Debug\Bollean_Logic_Drill.pdb
