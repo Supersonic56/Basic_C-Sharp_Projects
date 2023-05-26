@@ -1,0 +1,7 @@
+C:\Users\coach\source\repos\Basic_C-Sharp_Projects\Do_While_Drill\bin\Debug\Do_While_Drill.exe.config
+C:\Users\coach\source\repos\Basic_C-Sharp_Projects\Do_While_Drill\bin\Debug\Do_While_Drill.exe
+C:\Users\coach\source\repos\Basic_C-Sharp_Projects\Do_While_Drill\bin\Debug\Do_While_Drill.pdb
+C:\Users\coach\source\repos\Basic_C-Sharp_Projects\Do_While_Drill\obj\Debug\Do_While_Drill.csproj.AssemblyReference.cache
+C:\Users\coach\source\repos\Basic_C-Sharp_Projects\Do_While_Drill\obj\Debug\Do_While_Drill.csproj.CoreCompileInputs.cache
+C:\Users\coach\source\repos\Basic_C-Sharp_Projects\Do_While_Drill\obj\Debug\Do_While_Drill.exe
+C:\Users\coach\source\repos\Basic_C-Sharp_Projects\Do_While_Drill\obj\Debug\Do_While_Drill.pdb
