@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.33529.622
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Do_While_Drill", "Do_While_Drill.csproj", "{F0E10641-B17F-4B0C-92CF-CE2164361269}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Do_While_Case_String", "Do_While_Case_String.csproj", "{F0E10641-B17F-4B0C-92CF-CE2164361269}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Do_While_Case_Int", "..\Do_While_Case_Int\Do_While_Case_Int.csproj", "{D76A82FA-CA6D-4E37-9D6F-3C31D261B7B9}"
 EndProject
