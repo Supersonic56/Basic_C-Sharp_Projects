@@ -1,0 +1,6 @@
+C:\Users\coach\source\repos\Basic_C-Sharp_Projects\Do_While_Case_Int\bin\Debug\Do_While_Case_Int.exe.config
+C:\Users\coach\source\repos\Basic_C-Sharp_Projects\Do_While_Case_Int\bin\Debug\Do_While_Case_Int.exe
+C:\Users\coach\source\repos\Basic_C-Sharp_Projects\Do_While_Case_Int\bin\Debug\Do_While_Case_Int.pdb
+C:\Users\coach\source\repos\Basic_C-Sharp_Projects\Do_While_Case_Int\obj\Debug\Do_While_Case_Int.csproj.CoreCompileInputs.cache
+C:\Users\coach\source\repos\Basic_C-Sharp_Projects\Do_While_Case_Int\obj\Debug\Do_While_Case_Int.exe
+C:\Users\coach\source\repos\Basic_C-Sharp_Projects\Do_While_Case_Int\obj\Debug\Do_While_Case_Int.pdb
