@@ -1,0 +1,7 @@
+C:\Users\coach\source\repos\Basic_C-Sharp_Projects\six_part_lists_iterations_loops_drill\bin\Debug\six_part_lists_iterations_loops_drill.exe.config
+C:\Users\coach\source\repos\Basic_C-Sharp_Projects\six_part_lists_iterations_loops_drill\bin\Debug\six_part_lists_iterations_loops_drill.exe
+C:\Users\coach\source\repos\Basic_C-Sharp_Projects\six_part_lists_iterations_loops_drill\bin\Debug\six_part_lists_iterations_loops_drill.pdb
+C:\Users\coach\source\repos\Basic_C-Sharp_Projects\six_part_lists_iterations_loops_drill\obj\Debug\six_part_lists_iterations_loops_drill.csproj.CoreCompileInputs.cache
+C:\Users\coach\source\repos\Basic_C-Sharp_Projects\six_part_lists_iterations_loops_drill\obj\Debug\six_part_lists_iterations_loops_drill.exe
+C:\Users\coach\source\repos\Basic_C-Sharp_Projects\six_part_lists_iterations_loops_drill\obj\Debug\six_part_lists_iterations_loops_drill.pdb
+C:\Users\coach\source\repos\Basic_C-Sharp_Projects\six_part_lists_iterations_loops_drill\obj\Debug\six_part_lists_iterations_loops_drill.csproj.AssemblyReference.cache
