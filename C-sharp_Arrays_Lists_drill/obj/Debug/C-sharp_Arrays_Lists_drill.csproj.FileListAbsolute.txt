@@ -1,0 +1,7 @@
+C:\Users\coach\source\repos\Basic_C-Sharp_Projects\C-sharp_Arrays_Lists_drill\obj\Debug\C-sharp_Arrays_Lists_drill.csproj.AssemblyReference.cache
+C:\Users\coach\source\repos\Basic_C-Sharp_Projects\C-sharp_Arrays_Lists_drill\obj\Debug\C-sharp_Arrays_Lists_drill.csproj.CoreCompileInputs.cache
+C:\Users\coach\source\repos\Basic_C-Sharp_Projects\C-sharp_Arrays_Lists_drill\bin\Debug\C-sharp_Arrays_Lists_drill.exe.config
+C:\Users\coach\source\repos\Basic_C-Sharp_Projects\C-sharp_Arrays_Lists_drill\bin\Debug\C-sharp_Arrays_Lists_drill.exe
+C:\Users\coach\source\repos\Basic_C-Sharp_Projects\C-sharp_Arrays_Lists_drill\bin\Debug\C-sharp_Arrays_Lists_drill.pdb
+C:\Users\coach\source\repos\Basic_C-Sharp_Projects\C-sharp_Arrays_Lists_drill\obj\Debug\C-sharp_Arrays_Lists_drill.exe
+C:\Users\coach\source\repos\Basic_C-Sharp_Projects\C-sharp_Arrays_Lists_drill\obj\Debug\C-sharp_Arrays_Lists_drill.pdb

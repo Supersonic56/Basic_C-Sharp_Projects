@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33529.622
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C-sharp_Arrays_Lists_drill", "C-sharp_Arrays_Lists_drill.csproj", "{6CBAD0F1-88A4-498B-980D-B5AC2B1EEC6B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "six_part_lists_iterations_loops_drill", "..\six_part_lists_iterations_loops_drill\six_part_lists_iterations_loops_drill.csproj", "{E1AB4DAB-E1C8-48CD-B9BF-DF722AEFAE01}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6CBAD0F1-88A4-498B-980D-B5AC2B1EEC6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CBAD0F1-88A4-498B-980D-B5AC2B1EEC6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CBAD0F1-88A4-498B-980D-B5AC2B1EEC6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CBAD0F1-88A4-498B-980D-B5AC2B1EEC6B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1AB4DAB-E1C8-48CD-B9BF-DF722AEFAE01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1AB4DAB-E1C8-48CD-B9BF-DF722AEFAE01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1AB4DAB-E1C8-48CD-B9BF-DF722AEFAE01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1AB4DAB-E1C8-48CD-B9BF-DF722AEFAE01}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3CB2B050-B3C7-4523-A972-7E4CDDA0ADBA}
+	EndGlobalSection
+EndGlobal
