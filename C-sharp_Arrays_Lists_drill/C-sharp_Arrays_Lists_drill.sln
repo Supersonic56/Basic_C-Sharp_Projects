@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C-sharp_Arrays_Lists_drill"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "six_part_lists_iterations_loops_drill", "..\six_part_lists_iterations_loops_drill\six_part_lists_iterations_loops_drill.csproj", "{E1AB4DAB-E1C8-48CD-B9BF-DF722AEFAE01}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "try_catch_block_drill", "..\try_catch_block_drill\try_catch_block_drill.csproj", "{96367DF9-28BF-463A-84B9-1391088CCB90}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{E1AB4DAB-E1C8-48CD-B9BF-DF722AEFAE01}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E1AB4DAB-E1C8-48CD-B9BF-DF722AEFAE01}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E1AB4DAB-E1C8-48CD-B9BF-DF722AEFAE01}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96367DF9-28BF-463A-84B9-1391088CCB90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96367DF9-28BF-463A-84B9-1391088CCB90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96367DF9-28BF-463A-84B9-1391088CCB90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96367DF9-28BF-463A-84B9-1391088CCB90}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

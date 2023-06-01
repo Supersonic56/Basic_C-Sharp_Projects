@@ -1,0 +1,7 @@
+C:\Users\coach\source\repos\Basic_C-Sharp_Projects\try_catch_block_drill\bin\Debug\try_catch_block_drill.exe.config
+C:\Users\coach\source\repos\Basic_C-Sharp_Projects\try_catch_block_drill\bin\Debug\try_catch_block_drill.exe
+C:\Users\coach\source\repos\Basic_C-Sharp_Projects\try_catch_block_drill\bin\Debug\try_catch_block_drill.pdb
+C:\Users\coach\source\repos\Basic_C-Sharp_Projects\try_catch_block_drill\obj\Debug\try_catch_block_drill.csproj.AssemblyReference.cache
+C:\Users\coach\source\repos\Basic_C-Sharp_Projects\try_catch_block_drill\obj\Debug\try_catch_block_drill.csproj.CoreCompileInputs.cache
+C:\Users\coach\source\repos\Basic_C-Sharp_Projects\try_catch_block_drill\obj\Debug\try_catch_block_drill.exe
+C:\Users\coach\source\repos\Basic_C-Sharp_Projects\try_catch_block_drill\obj\Debug\try_catch_block_drill.pdb
