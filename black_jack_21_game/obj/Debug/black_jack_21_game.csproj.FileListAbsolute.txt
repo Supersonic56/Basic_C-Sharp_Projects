@@ -1,0 +1,7 @@
+C:\Users\coach\source\repos\Basic_C-Sharp_Projects\black_jack_21_game\bin\Debug\black_jack_21_game.exe.config
+C:\Users\coach\source\repos\Basic_C-Sharp_Projects\black_jack_21_game\bin\Debug\black_jack_21_game.exe
+C:\Users\coach\source\repos\Basic_C-Sharp_Projects\black_jack_21_game\bin\Debug\black_jack_21_game.pdb
+C:\Users\coach\source\repos\Basic_C-Sharp_Projects\black_jack_21_game\obj\Debug\black_jack_21_game.csproj.AssemblyReference.cache
+C:\Users\coach\source\repos\Basic_C-Sharp_Projects\black_jack_21_game\obj\Debug\black_jack_21_game.csproj.CoreCompileInputs.cache
+C:\Users\coach\source\repos\Basic_C-Sharp_Projects\black_jack_21_game\obj\Debug\black_jack_21_game.exe
+C:\Users\coach\source\repos\Basic_C-Sharp_Projects\black_jack_21_game\obj\Debug\black_jack_21_game.pdb
