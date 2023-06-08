@@ -1,0 +1,7 @@
+C:\Users\coach\source\repos\Basic_C-Sharp_Projects\Method_Class_Drill\bin\Debug\Method_Class_Drill.exe.config
+C:\Users\coach\source\repos\Basic_C-Sharp_Projects\Method_Class_Drill\bin\Debug\Method_Class_Drill.exe
+C:\Users\coach\source\repos\Basic_C-Sharp_Projects\Method_Class_Drill\bin\Debug\Method_Class_Drill.pdb
+C:\Users\coach\source\repos\Basic_C-Sharp_Projects\Method_Class_Drill\obj\Debug\Method_Class_Drill.csproj.AssemblyReference.cache
+C:\Users\coach\source\repos\Basic_C-Sharp_Projects\Method_Class_Drill\obj\Debug\Method_Class_Drill.csproj.CoreCompileInputs.cache
+C:\Users\coach\source\repos\Basic_C-Sharp_Projects\Method_Class_Drill\obj\Debug\Method_Class_Drill.exe
+C:\Users\coach\source\repos\Basic_C-Sharp_Projects\Method_Class_Drill\obj\Debug\Method_Class_Drill.pdb
