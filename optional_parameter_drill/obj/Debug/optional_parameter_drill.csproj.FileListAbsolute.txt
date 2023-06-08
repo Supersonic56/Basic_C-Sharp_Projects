@@ -1,0 +1,7 @@
+C:\Users\coach\source\repos\Basic_C-Sharp_Projects\optional_parameter_drill\bin\Debug\optional_parameter_drill.exe.config
+C:\Users\coach\source\repos\Basic_C-Sharp_Projects\optional_parameter_drill\bin\Debug\optional_parameter_drill.exe
+C:\Users\coach\source\repos\Basic_C-Sharp_Projects\optional_parameter_drill\bin\Debug\optional_parameter_drill.pdb
+C:\Users\coach\source\repos\Basic_C-Sharp_Projects\optional_parameter_drill\obj\Debug\optional_parameter_drill.csproj.AssemblyReference.cache
+C:\Users\coach\source\repos\Basic_C-Sharp_Projects\optional_parameter_drill\obj\Debug\optional_parameter_drill.csproj.CoreCompileInputs.cache
+C:\Users\coach\source\repos\Basic_C-Sharp_Projects\optional_parameter_drill\obj\Debug\optional_parameter_drill.exe
+C:\Users\coach\source\repos\Basic_C-Sharp_Projects\optional_parameter_drill\obj\Debug\optional_parameter_drill.pdb
