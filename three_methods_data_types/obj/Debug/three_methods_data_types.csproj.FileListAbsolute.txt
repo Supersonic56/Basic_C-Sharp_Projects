@@ -4,3 +4,4 @@ C:\Users\coach\source\repos\Basic_C-Sharp_Projects\three_methods_data_types\bin\
 C:\Users\coach\source\repos\Basic_C-Sharp_Projects\three_methods_data_types\bin\Debug\three_methods_data_types.pdb
 C:\Users\coach\source\repos\Basic_C-Sharp_Projects\three_methods_data_types\obj\Debug\three_methods_data_types.exe
 C:\Users\coach\source\repos\Basic_C-Sharp_Projects\three_methods_data_types\obj\Debug\three_methods_data_types.pdb
+C:\Users\coach\source\repos\Basic_C-Sharp_Projects\three_methods_data_types\obj\Debug\three_methods_data_types.csproj.AssemblyReference.cache

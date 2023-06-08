@@ -13,22 +13,27 @@ namespace three_methods_data_types_Class1
         // Method that takes in a decimal and returns the result of a math operation
         public int DoMath(decimal num)
         {
-            return (int)(num * 2);
+            //return (int)(num * 2);
+            int newnum = Convert.ToInt32(num);
+            return newnum * 2;
         }
 
         // Method that takes in a string, converts it to an integer if possible,
         // and returns the result of a math operation
-        public int DoMath(string str)
+        public int DoMath(string num)
         {
-            int num;
-            if (int.TryParse(str, out num))
-            {
-                return num - 3;
-            }
-            else
-            {
-                return 0;
-            }
+            /* int num;
+             if (int.TryParse(str, out num))
+             {
+                 return num - 3;
+             }
+             else
+             {
+                 return 0;
+            */
+            int newnum = Convert.ToInt32(num);
+            return newnum % 3;
+            
         }
     }
 }
