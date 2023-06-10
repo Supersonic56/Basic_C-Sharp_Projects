@@ -1,0 +1,7 @@
+C:\Users\coach\source\repos\Inheritance_drill\bin\Debug\Inheritance_drill.exe.config
+C:\Users\coach\source\repos\Inheritance_drill\bin\Debug\Inheritance_drill.exe
+C:\Users\coach\source\repos\Inheritance_drill\bin\Debug\Inheritance_drill.pdb
+C:\Users\coach\source\repos\Inheritance_drill\obj\Debug\Inheritance_drill.csproj.AssemblyReference.cache
+C:\Users\coach\source\repos\Inheritance_drill\obj\Debug\Inheritance_drill.csproj.CoreCompileInputs.cache
+C:\Users\coach\source\repos\Inheritance_drill\obj\Debug\Inheritance_drill.exe
+C:\Users\coach\source\repos\Inheritance_drill\obj\Debug\Inheritance_drill.pdb
