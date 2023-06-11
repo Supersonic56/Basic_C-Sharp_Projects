@@ -1,0 +1,7 @@
+C:\Users\coach\source\repos\Basic_C-Sharp_Projects\Abstract_Override_drill\bin\Debug\Abstract_Override_drill.exe.config
+C:\Users\coach\source\repos\Basic_C-Sharp_Projects\Abstract_Override_drill\bin\Debug\Abstract_Override_drill.exe
+C:\Users\coach\source\repos\Basic_C-Sharp_Projects\Abstract_Override_drill\bin\Debug\Abstract_Override_drill.pdb
+C:\Users\coach\source\repos\Basic_C-Sharp_Projects\Abstract_Override_drill\obj\Debug\Abstract_Override_drill.csproj.AssemblyReference.cache
+C:\Users\coach\source\repos\Basic_C-Sharp_Projects\Abstract_Override_drill\obj\Debug\Abstract_Override_drill.csproj.CoreCompileInputs.cache
+C:\Users\coach\source\repos\Basic_C-Sharp_Projects\Abstract_Override_drill\obj\Debug\Abstract_Override_drill.exe
+C:\Users\coach\source\repos\Basic_C-Sharp_Projects\Abstract_Override_drill\obj\Debug\Abstract_Override_drill.pdb
