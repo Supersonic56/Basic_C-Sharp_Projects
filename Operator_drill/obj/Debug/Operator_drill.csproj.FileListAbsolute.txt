@@ -1,0 +1,7 @@
+C:\Users\coach\source\repos\Basic_C-Sharp_Projects\Operator_drill\bin\Debug\Operator_drill.exe.config
+C:\Users\coach\source\repos\Basic_C-Sharp_Projects\Operator_drill\bin\Debug\Operator_drill.exe
+C:\Users\coach\source\repos\Basic_C-Sharp_Projects\Operator_drill\bin\Debug\Operator_drill.pdb
+C:\Users\coach\source\repos\Basic_C-Sharp_Projects\Operator_drill\obj\Debug\Operator_drill.csproj.AssemblyReference.cache
+C:\Users\coach\source\repos\Basic_C-Sharp_Projects\Operator_drill\obj\Debug\Operator_drill.csproj.CoreCompileInputs.cache
+C:\Users\coach\source\repos\Basic_C-Sharp_Projects\Operator_drill\obj\Debug\Operator_drill.exe
+C:\Users\coach\source\repos\Basic_C-Sharp_Projects\Operator_drill\obj\Debug\Operator_drill.pdb
