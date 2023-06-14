@@ -1,0 +1,7 @@
+C:\Users\coach\source\repos\Basic_C-Sharp_Projects\Lambda_Expression_drill\bin\Debug\Lambda_Expression_drill.exe.config
+C:\Users\coach\source\repos\Basic_C-Sharp_Projects\Lambda_Expression_drill\bin\Debug\Lambda_Expression_drill.exe
+C:\Users\coach\source\repos\Basic_C-Sharp_Projects\Lambda_Expression_drill\bin\Debug\Lambda_Expression_drill.pdb
+C:\Users\coach\source\repos\Basic_C-Sharp_Projects\Lambda_Expression_drill\obj\Debug\Lambda_Expression_drill.csproj.AssemblyReference.cache
+C:\Users\coach\source\repos\Basic_C-Sharp_Projects\Lambda_Expression_drill\obj\Debug\Lambda_Expression_drill.csproj.CoreCompileInputs.cache
+C:\Users\coach\source\repos\Basic_C-Sharp_Projects\Lambda_Expression_drill\obj\Debug\Lambda_Expression_drill.exe
+C:\Users\coach\source\repos\Basic_C-Sharp_Projects\Lambda_Expression_drill\obj\Debug\Lambda_Expression_drill.pdb
