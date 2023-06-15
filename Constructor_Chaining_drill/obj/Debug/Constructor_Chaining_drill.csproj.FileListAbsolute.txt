@@ -1,0 +1,7 @@
+C:\Users\coach\source\repos\Basic_C-Sharp_Projects\Constructor_Chaining_drill\bin\Debug\Constructor_Chaining_drill.exe.config
+C:\Users\coach\source\repos\Basic_C-Sharp_Projects\Constructor_Chaining_drill\bin\Debug\Constructor_Chaining_drill.exe
+C:\Users\coach\source\repos\Basic_C-Sharp_Projects\Constructor_Chaining_drill\bin\Debug\Constructor_Chaining_drill.pdb
+C:\Users\coach\source\repos\Basic_C-Sharp_Projects\Constructor_Chaining_drill\obj\Debug\Constructor_Chaining_drill.csproj.AssemblyReference.cache
+C:\Users\coach\source\repos\Basic_C-Sharp_Projects\Constructor_Chaining_drill\obj\Debug\Constructor_Chaining_drill.csproj.CoreCompileInputs.cache
+C:\Users\coach\source\repos\Basic_C-Sharp_Projects\Constructor_Chaining_drill\obj\Debug\Constructor_Chaining_drill.exe
+C:\Users\coach\source\repos\Basic_C-Sharp_Projects\Constructor_Chaining_drill\obj\Debug\Constructor_Chaining_drill.pdb
