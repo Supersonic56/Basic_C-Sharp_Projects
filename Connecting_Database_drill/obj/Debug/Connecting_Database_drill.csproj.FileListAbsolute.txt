@@ -1,0 +1,2 @@
+C:\Users\coach\source\repos\Basic_C-Sharp_Projects\Connecting_Database_drill\obj\Debug\Connecting_Database_drill.csproj.AssemblyReference.cache
+C:\Users\coach\source\repos\Basic_C-Sharp_Projects\Connecting_Database_drill\obj\Debug\Connecting_Database_drill.csproj.CoreCompileInputs.cache
