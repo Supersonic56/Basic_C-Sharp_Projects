@@ -1,0 +1,14 @@
+C:\Users\lucyk\source\repos\Basic_C-Sharp_Projects\studentDB\bin\Debug\studentDB.exe.config
+C:\Users\lucyk\source\repos\Basic_C-Sharp_Projects\studentDB\bin\Debug\studentDB.exe
+C:\Users\lucyk\source\repos\Basic_C-Sharp_Projects\studentDB\bin\Debug\studentDB.pdb
+C:\Users\lucyk\source\repos\Basic_C-Sharp_Projects\studentDB\bin\Debug\EntityFramework.dll
+C:\Users\lucyk\source\repos\Basic_C-Sharp_Projects\studentDB\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\lucyk\source\repos\Basic_C-Sharp_Projects\studentDB\bin\Debug\EntityFramework.xml
+C:\Users\lucyk\source\repos\Basic_C-Sharp_Projects\studentDB\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\lucyk\source\repos\Basic_C-Sharp_Projects\studentDB\obj\Debug\studentDB.csproj.AssemblyReference.cache
+C:\Users\lucyk\source\repos\Basic_C-Sharp_Projects\studentDB\obj\Debug\studentDB.Properties.Resources.resources
+C:\Users\lucyk\source\repos\Basic_C-Sharp_Projects\studentDB\obj\Debug\studentDB.csproj.GenerateResource.cache
+C:\Users\lucyk\source\repos\Basic_C-Sharp_Projects\studentDB\obj\Debug\studentDB.csproj.CoreCompileInputs.cache
+C:\Users\lucyk\source\repos\Basic_C-Sharp_Projects\studentDB\obj\Debug\studentDB.csproj.CopyComplete
+C:\Users\lucyk\source\repos\Basic_C-Sharp_Projects\studentDB\obj\Debug\studentDB.exe
+C:\Users\lucyk\source\repos\Basic_C-Sharp_Projects\studentDB\obj\Debug\studentDB.pdb
